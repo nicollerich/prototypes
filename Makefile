@@ -1,6 +1,6 @@
-# Run the Harp Server on port 8000
+# Run the Harp Server on port 7000
 run:
-	harp server -p 8000 ./_harp
+	harp server -p 7000 ./_harp
 
 # Clean and Compile for Github Pages
 dev:
